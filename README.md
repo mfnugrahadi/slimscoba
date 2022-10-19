@@ -1,0 +1,2 @@
+# slimscoba
+Percobaan aplikasi slims
